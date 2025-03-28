@@ -5,4 +5,4 @@ O resultado da função procurar é um char * (ponteiro para char), então resul
 
 Nosso [Jira](https://projetofds-2.atlassian.net/jira/software/projects/FDS/boards/5/backlog?selectedIssue=FDS-4)
 
-!["C:\Users\robertomiranda\OneDrive\Imagens\Capturas de tela\Captura de tela 2025-03-14 090206.png"](https://pt.wikipedia.org/wiki/Dunkirk_%28filme%29)
+![Dunkirk](C:\Users\robertomiranda\OneDrive\Imagens\Capturas de tela\Captura de tela 2025-03-14 090206.png)
